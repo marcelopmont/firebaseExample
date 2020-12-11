@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase Example</string>
+    <!-- Strings related to login -->
+    <string name="prompt_name">Nome</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_up">Não possui cadastro? Clique aqui</string>
+    <string name="action_sign_up_confirm">Cadastrar</string>
+</resources>
