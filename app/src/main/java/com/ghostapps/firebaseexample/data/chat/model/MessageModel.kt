@@ -1,6 +1,6 @@
-package com.ghostapps.firebaseexample.model
+package com.ghostapps.firebaseexample.data.chat.model
 
-class Message(
+class MessageModel (
     val userId: String,
     val userName: String?,
     val text: String,
