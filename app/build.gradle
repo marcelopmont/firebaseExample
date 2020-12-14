@@ -55,4 +55,6 @@ dependencies {
     implementation "org.koin:koin-core:2.2.1"
     implementation "org.koin:koin-androidx-viewmodel:2.2.1"
 
+    testImplementation 'com.nhaarman.mockitokotlin2:mockito-kotlin:2.0.0-RC3'
+
 }
